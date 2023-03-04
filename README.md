@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SIDDHARTH-PUNMIYA
 - 👀 I’m interested in WEB DEVELOPMENT AND CODING
-- 🌱 I’m currently learning React js and backend languages.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Django.
+- I have completed MERN Stack
 
 <!---
 SIDDHARTH-PUNMIYA/SIDDHARTH-PUNMIYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
