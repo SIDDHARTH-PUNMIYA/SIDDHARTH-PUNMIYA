@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SIDDHARTH-PUNMIYA
+- 👋 Hi, I’m SIDDHARTH-PUNMIYA
 - 👀 I’m interested in WEB DEVELOPMENT AND CODING
-- 🌱 I’m currently learning Django.
-- I have completed MERN Stack
+- 🌱 I'm currently working at SP global as a Software Engineer I 
 
 <!---
 SIDDHARTH-PUNMIYA/SIDDHARTH-PUNMIYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
